@@ -1,4 +1,4 @@
- first, sec=float(input("Enter first number => "))
+ first=float(input("Enter first number => "))
 sec=float(input("Enter sec number =>"))
 opr = str(input("Enter operation (+, -, *, /) => "))
 if opr == "+":
